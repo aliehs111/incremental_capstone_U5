@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# IPython history and runtime files
+profile_default/
+ipython_config.py
+*.sqlite
+*.db
+
+# Notebook output formats (optional)
+*.nbconvert.ipynb
+*.html
+*.pdf
+
+# Environments
+.env
+.env.* 
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
